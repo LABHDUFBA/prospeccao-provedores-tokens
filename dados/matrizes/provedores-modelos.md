@@ -15,5 +15,6 @@
 | Xiaomi MiMo | MiMo-V2.5-Pro-UltraSpeed | Linguagem/Agentes (alta velocidade) | API MiMo (OpenAI/Anthropic) | Beta trial gratuito (9–23 jun/2026) | UltraSpeed Beta + Token Plans | [inferência] ~$1.305/$2.61 por 1M tokens (3× Pro) | Beta | 2026-06-08 | fontes/2026-06-08-xiaomi-mimo-ultraspeed.md |
 | Xiaomi MiMo | MiMo-V2.5-Pro | Linguagem/Agentes/Código | API MiMo, OpenRouter | Sim (1 semana via frameworks) | UltraSpeed Beta + Token Plans | $0.435/$0.87 por 1M tokens (OpenRouter) | Ativo | 2026-06-08 | fontes/2026-06-08-xiaomi-mimo-ultraspeed.md |
 | Xiaomi MiMo | MiMo-V2.5 | Linguagem/Multimodal | API MiMo, OpenRouter | Sim (1 semana via frameworks) | UltraSpeed Beta + Token Plans | $0.14/$0.28 por 1M tokens (OpenRouter) | Ativo | 2026-06-08 | fontes/2026-06-08-xiaomi-mimo-ultraspeed.md |
+| Xiaomi MiMo | MiMo-V2-Flash | Linguagem (leve/rápido) | API MiMo, OpenRouter | Sim — gratuito permanente (rate-limited) | — | $0/$0 (gratuito) | Ativo | 2026-06-08 | fontes/2026-06-08-xiaomi-mimo-ultraspeed.md |
 
 <!-- Adicione linhas conforme fichas forem criadas ou atualizadas -->

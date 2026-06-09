@@ -24,6 +24,8 @@
 | Xiaomi MiMo API Platform | https://platform.xiaomimimo.com/ | Documentação/Pricing | — |
 | Xiaomi MiMo UltraSpeed docs | https://platform.xiaomimimo.com/docs/en-US/model-intro/mimo-v2.5-pro-ultraspeed | Documentação | — |
 | Xiaomi MiMo Token Plan | https://platform.xiaomimimo.com/token-plan | Documentação/Pricing | — |
+| Xiaomi MiMo Orbit (100T grant) | https://100t.xiaomimimo.com/ | Programa / Grant | 2026-04-27 |
+| Xiaomi MiMo V2.5 open-source | https://platform.xiaomimimo.com/docs/en-US/news/v2.5-open-sourced | Blog oficial | 2026-04-22 |
 | MarkTechPost | https://www.marktechpost.com/2026/06/08/xiaomi-mimo-and-tilert-push-a-1-trillion-parameter-model-past-1000-tokens-per-second-on-commodity-gpus/ | Notícia | 2026-06-08 |
 | Decrypt | https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude | Notícia | 2026-06-08 |
 | Binance/NS3.AI | https://www.binance.com/en/square/post/06-08-2026-ai-trends-xiaomi-and-tilert-say-mimo-v2-5-pro-ultraspeed-tops-1-000-tokens-per-second-on-1t-parameter-model-332027571616866 | Notícia | 2026-06-08 |
@@ -32,6 +34,9 @@
 | CodingPlan (Token Plan guide) | https://codingplan.link/en/plans/xiaomimimo | Blog/agregador | — |
 | BuildFastWithAI | https://www.buildfastwithai.com/blogs/xiaomi-mimo-v2-5-pro-review-2026 | Review | 2026-04-23 |
 | Xix.AI | https://xix.ai/ainews/xiaomis-mimo-model-joins-openclaw-five-frameworks-in-limited-free-access.html | Notícia | 2026-03-31 |
+| CometAPI (guia gratuito) | https://www.cometapi.com/how-to-use-mimo-v2-api-for-free/ | Guia | 2026 |
+| Apidog (MiMo Orbit) | https://apidog.com/blog/xiaomi-mimo-orbit-free-token/ | Guia/Notícia | 2026 |
+| EarlyTerms (MiMo Orbit) | https://earlyterms.com/term/xiaomi-mimo-orbit | Agregador | 2026 |
 
 ## Trechos relevantes
 
@@ -58,8 +63,10 @@
 - **Preços (OpenRouter)**: MiMo-V2.5: $0.14/$0.28 por 1M tokens; MiMo-V2.5-Pro: $0.435/$0.87 por 1M tokens
 - **Preço UltraSpeed**: 3× preço do Pro ([inferência] ~$1.305/$2.61 por 1M tokens)
 - **Beta trial**: 9–23 jun/2026, inscrição na plataforma, aprovações diárias
-- **Token Plans**: Lite ¥39/mês, Standard, Pro, Max
-- **Frameworks parceiros com 1 semana grátis**: OpenClaw, OpenCode, KiloCode, Cline, Blackbox
+- **Token Plans**: Lite ¥39/mês (~US$5-6), Standard, Pro, Max
+- **MiMo Orbit**: Grant de 100 trilhões de tokens para builders, até 1.6B créditos (~US$100), ciclo abril–maio/2026 (encerrado)
+- **MiMo-V2-Flash**: Gratuito permanente (rate-limited)
+- **Frameworks parceiros**: OpenClaw, OpenCode, KiloCode, Cline, Blackbox (1 semana grátis, promoção de lançamento já encerrada)
 
 ## Lacunas
 
@@ -67,7 +74,9 @@
 - Campo não encontrado: limites de requests/dia no beta UltraSpeed
 - Campo não encontrado: programa acadêmico ou desconto para pesquisa
 - Campo não encontrado: moeda de cobrança para contas brasileiras
-- Necessário verificar: elegibilidade de instituições brasileiras/UFBA
+- Campo não encontrado: limites de rate do MiMo-V2-Flash gratuito
+- Campo não encontrado: critérios de aprovação do MiMo Orbit (o que conta como "high-quality AI-driven users")
+- Necessário verificar: elegibilidade de instituições brasileiras/UFBA para MiMo Orbit (se abrir novo ciclo)
 - Necessário verificar: conformidade LGPD para dados processados pela Xiaomi
 
 ## Histórico

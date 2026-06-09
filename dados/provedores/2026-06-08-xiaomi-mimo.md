@@ -12,9 +12,9 @@
 | **Meios de acesso** | API (compatível com OpenAI e Anthropic), Console web, Token Plan (assinatura), OpenRouter |
 | **Modelos próprios** | MiMo-V2-Pro, MiMo-V2-Omni, MiMo-V2-TTS, MiMo-V2.5-Pro, MiMo-V2.5, MiMo-V2.5-TTS, MiMo-V2.5-Pro-UltraSpeed |
 | **Modelos terceiros** | Nenhum (provedor de modelos próprios) |
-| **Tier gratuito** | Sim — semanas de acesso gratuito via frameworks parceiros (OpenClaw, OpenCode, KiloCode, Cline, Blackbox). Trial beta do UltraSpeed (junho 2026). |
+| **Tier gratuito** | Sim — MiMo-V2-Flash gratuito permanente (rate-limited). Beta UltraSpeed gratuito até 23/06/2026. MiMo Orbit (100T token grant, ciclo encerrado, possível ciclo futuro). 1 semana gratuita via frameworks parceiros (promoção de lançamento, já encerrada). |
 | **Desconto acadêmico** | Desconhecido (verificar) |
-| **Programa de pesquisa** | Desconhecido (verificar) — possível via parcerias com universidades |
+| **Programa de pesquisa** | MiMo Orbit — grant de 100 trilhões de tokens para builders (inscrição em 100t.xiaomimimo.com, último ciclo encerrou maio/2026) |
 | **Regiões atendidas** | Global (API acessível mundialmente) |
 | **Elegibilidade Brasil** | Sim — API global, sem restrição geográfica aparente |
 | **Moeda de cobrança** | CNY (Token Plans em ¥) / USD (via OpenRouter e outros provedores) |
@@ -34,6 +34,8 @@
 |-----------------------|------|--------------|--------|--------------|
 | UltraSpeed Beta Trial | Trial / Beta promocional | 9–23 jun 2026 | Ativo | dados/oportunidades/2026-06-08-mimo-ultraspeed-beta.md |
 | Token Plan Lite | Assinatura | Contínuo | Ativo | dados/oportunidades/2026-06-08-mimo-ultraspeed-beta.md |
+| MiMo Orbit (100T Token Grant) | Grant | Ciclo encerrado (abr–mai 2026) | Encerrado (possível ciclo futuro) | dados/oportunidades/2026-06-08-mimo-ultraspeed-beta.md |
+| MiMo-V2-Flash gratuito | Tier gratuito permanente | Contínuo | Ativo | — |
 
 ## Modelos disponíveis
 
@@ -42,6 +44,7 @@
 | MiMo-V2.5-Pro-UltraSpeed | Linguagem / Agentes (alta velocidade) | API MiMo | Beta trial gratuito (9–23 jun/2026) | 3× preço do MiMo-V2.5-Pro ([inferência]: ~$1.305/$2.61 por 1M tokens) | dados/modelos/2026-06-08-mimo-v2.5-pro.md |
 | MiMo-V2.5-Pro | Linguagem / Agentes / Código | API MiMo, OpenRouter | Sim (via frameworks) | $0.435/$0.87 por 1M tokens (via OpenRouter) | dados/modelos/2026-06-08-mimo-v2.5-pro.md |
 | MiMo-V2.5 | Linguagem / Multimodal | API MiMo, OpenRouter | Sim (via frameworks) | $0.14/$0.28 por 1M tokens (via OpenRouter) | dados/modelos/2026-06-08-mimo-v2.5.md |
+| MiMo-V2-Flash | Linguagem (leve/rápido) | API MiMo, OpenRouter | Sim — gratuito permanente (rate-limited) | $0/$0 (gratuito) | — |
 | MiMo-V2.5-TTS | TTS / Voz | API MiMo | Token Plan inclui TTS grátis (promocional) | Desconhecido (verificar) | — |
 
 ## Histórico de alterações
